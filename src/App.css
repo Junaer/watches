@@ -1,0 +1,32 @@
+
+.time_add {
+  display: flex;
+  margin: 20px;
+}
+
+.add_button {
+  color: blueviolet;
+  background-color:bisque;
+  border: #888 8px outset;
+  margin-left: 5px;
+}
+
+.text {
+  margin-right: 12px
+}
+
+.watch {
+  display: flex;
+  margin: 20px;
+  border: 1.5px solid black;
+  justify-content: space-between;
+}
+
+.time {
+  font: italic small-caps bold 20px/2 cursive;
+}
+
+.name {
+  margin-right: 400px;
+  font: italic small-caps bold 16px/2 cursive;
+}
